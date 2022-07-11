@@ -1,0 +1,7 @@
+/var/www/MyWebApp/out/MyWebApp
+/var/www/MyWebApp/out/appsettings.Development.json
+/var/www/MyWebApp/out/appsettings.json
+/var/www/MyWebApp/out/MyWebApp.dll
+/var/www/MyWebApp/out/MyWebApp.deps.json
+/var/www/MyWebApp/out/MyWebApp.runtimeconfig.json
+/var/www/MyWebApp/out/MyWebApp.pdb
